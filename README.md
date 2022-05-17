@@ -1,11 +1,3 @@
-# -----Team 3-----
-
-## - Team Members - 
-FnUr007 - Abi Mangalan
-FnUr207 - Surojit Piri
-FnUr187 - Shreya Singh
-FnUr031 - Anurup Chakraborty
-
 # Uranium
 
 # project3
